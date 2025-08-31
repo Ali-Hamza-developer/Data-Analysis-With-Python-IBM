@@ -7,11 +7,10 @@ It includes two datasets (`Laptop Pricing`, `Used Cars Pricing` , `Medical Insur
 
 ## 📂 Repo Structure
 
-- `datasets/` → Raw CSV files (`laptop_pricing.csv`, `used_cars.csv`)  
+- `datasets/` → Raw CSV files (`laptop_pricing.csv`, `used_cars.csv` , `Medical Insurance`)  
 - `LAPTOP_PRICING/` → Wrangling, EDA, and Model Development notebooks  
 - `USED_CAR_PRICING/` → Wrangling, EDA, Model Development, and Model Refinement notebooks  
 - `FINAL_PROJECT/` → Capstone projects (Insurance Cost, House Sales)  
-- `results/` → Outputs (plots, trained models, reports)  
 
 ---
 
@@ -38,3 +37,8 @@ It includes two datasets (`Laptop Pricing`, `Used Cars Pricing` , `Medical Insur
 - **House Sales Prediction**  
 
 ---
+
+## Author
+
+- 📧 Email: alihamza25856@gmail.com  
+- 🔗 LinkedIn: [Ali Hamza](https://www.linkedin.com/in/ali-hamza-27082a363/)
