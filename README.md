@@ -1,7 +1,7 @@
 # Data Analysis with Python (Coursera & IBM)
 
 This repo contains my work for the **Data Analysis with Python** course (Coursera & IBM).  
-It includes two datasets (`Laptop Pricing`, `Used Cars Pricing` , `Medical Insurance`) and two final projects.
+It includes three datasets (`Laptop Pricing`, `Used Cars Pricing` , `Medical Insurance`) and two final projects.
 
 ---
 
