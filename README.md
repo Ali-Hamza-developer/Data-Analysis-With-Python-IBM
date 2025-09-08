@@ -27,7 +27,7 @@ It includes two datasets (`Laptop Pricing`, `Used Cars Pricing` ) and two final 
 ## 📊 Datasets
 
 1. **Used Cars Pricing** → Predicting car prices based on features  
-2. **Laptop Pricing** → Analyzing and predicting laptop prices  
+2. **Laptop Pricing** → Analyzing and predicting laptop prices.
 
 ---
 
